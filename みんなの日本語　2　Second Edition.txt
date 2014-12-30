@@ -1,4 +1,4 @@
-見ます	<div>みます</div>to check, to examine II	L26 L26NEX
+﻿見ます	<div>みます</div>to check, to examine II	L26 L26NEX
 診ます	<div>みます</div>to examine (medically), II	L26 L26NEX
 探します	<div>さがします</div>to search, to look for, I	L26 L26NEX
 捜します	<div>さがします</div>to search (for something lost) I	L26 L26NEX
